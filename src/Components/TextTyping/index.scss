@@ -1,0 +1,14 @@
+.textTyping__cursor--blink{
+    animation: blink 200ms infinite ;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
