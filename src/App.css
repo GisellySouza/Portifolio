@@ -26,13 +26,13 @@
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: 60vw 20vw;
-  padding: 15px 0px 15px 10%;    
+  padding: 1% 0px 2% 10%;    
   align-items:center;
   
 }
 .container{
   display: flex;
-  margin-left: 90px;
+  margin-left: 10%;
   justify-content:space-around;
   width: 70%;  
   font-size: 15px;
@@ -53,15 +53,14 @@ a:hover{
 }
 
 
-
-
 .fig{
   width: 20px;
-  padding: 10px 10px;
+  padding: 5% 5%;
 }
 
+
 #fig{
-  margin-left: 80px;
+  margin-left: 15%;
   align-items: center;
 }
 
@@ -128,7 +127,7 @@ button{
 }
 
 #buttonTheme{
-  padding: 15px 0px 8px 15px;
+  padding: 10% 0px 3% 3%;
   font-size: 10px;
   margin: 0px;
   width: 60px;
