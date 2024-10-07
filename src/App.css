@@ -20,7 +20,9 @@
   }
 }
 
-
+p{
+  font-size: 1.5vw;
+}
 
 .cabeçalho{
   display: grid;
@@ -65,7 +67,7 @@ a:hover{
 }
 
 h1{
-  font-size: 32px;
+  font-size: 3.7vw;
   line-height: 96px;
   margin: 5% 0 0% 10%;
 }
@@ -135,8 +137,8 @@ button{
 }
 
 .template{
-  width: 350px;
-  height: 480px;
+  width: 40vw;
+
   margin: 10px 10px 50px 120px; 
   box-shadow: 0px 0px 15px rgb(129, 123, 123);;
   border-radius: 20px 0px 20px 0px;
@@ -145,10 +147,9 @@ button{
 }
 
 .projects{
-  width: 320px;
-  border-radius: 8px ;
-  margin-bottom: 25px;
-  
+  width: 35vw;
+  margin: 6%;
+    
  }
 
  .projetos{
@@ -157,11 +158,11 @@ button{
  }
 
  .descriçãoProjetos{
-  padding: 0px 25px 20px;
+  padding: 0px 10% 10%;
  }
 
  .nameprojects{
-  margin-bottom: 30px;
+  margin-bottom: 8%;
  }
 
  .about{
@@ -201,6 +202,9 @@ button{
     transform: scale(1.2) translate(0px, -1vh);
 
 }
+
+
+projetos
 
  
 
