@@ -203,8 +203,15 @@ button{
 
 }
 
+@media (300px <= widht <= 1350){
+  .cabeçalho{
+    font-size: 10px;
+  }
 
-projetos
+}
+
+
+
 
  
 
