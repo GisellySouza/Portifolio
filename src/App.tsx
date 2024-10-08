@@ -190,7 +190,7 @@ function App() {
             <h3> Meu contato:</h3>
             <h3>(45) 99157-7128</h3>
             </div>
-            <div>
+            <div className='email'>
             <h3>E-mail:</h3>
             <h3>gisellydesouza@hotmail.com</h3>
             </div>

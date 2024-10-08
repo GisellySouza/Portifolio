@@ -13,7 +13,7 @@
 }
 
 .app.light {
-  background: #b7c4d6 !important;
+  background: #b7c4d6;
   color: #070707;
   h1, h2, h3, h4, a{
     color: #070707;
@@ -118,9 +118,9 @@ button{
   color: white;
   font-size: 11px;
   font-weight: 550;
-  width: 100px;
-  height: 35px;  
-  margin-top: 25px;
+  width: 12vw;
+  height: 3vw;  
+  margin: 4%;
   border-radius: 100px;
   background: linear-gradient(270deg, #13ADC7 0%, #6978D1 66.67%, #945DD6 100%);
   cursor: pointer;
@@ -158,7 +158,7 @@ button{
  }
 
  .descriçãoProjetos{
-  padding: 0px 10% 10%;
+  padding: 0px 10% 3%;
  }
 
  .nameprojects{
@@ -196,12 +196,20 @@ button{
   grid-auto-columns: 60vw 20vw;
   padding: 8% 0% 5% 10%;    
   align-items:center;
+
+}
+
+.email{
+  justify-content: center;
+
 }
 
 .contactIcons img:hover {
     transform: scale(1.2) translate(0px, -1vh);
 
 }
+
+
 
 @media (300px <= widht <= 1350){
   .cabeçalho{
