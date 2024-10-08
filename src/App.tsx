@@ -20,7 +20,7 @@ function App() {
               </h3>
             </div>
             <div>
-            <h3>
+              <h3>
                 <a href="https://github.com/GisellySouza" target="-blank"> Tecnologias</a>
               </h3>
             </div>
