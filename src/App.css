@@ -20,19 +20,21 @@
   }
 }
 
-
+p{
+  font-size: 1.5vw;
+}
 
 .cabeçalho{
   display: grid;
   grid-auto-flow: column;
   grid-auto-columns: 60vw 20vw;
-  padding: 15px 0px 15px 10%;    
+  padding: 1% 0px 2% 10%;    
   align-items:center;
   
 }
 .container{
   display: flex;
-  margin-left: 90px;
+  margin-left: 10%;
   justify-content:space-around;
   width: 70%;  
   font-size: 15px;
@@ -53,20 +55,19 @@ a:hover{
 }
 
 
-
-
 .fig{
   width: 20px;
-  padding: 10px 10px;
+  padding: 5% 5%;
 }
 
+
 #fig{
-  margin-left: 80px;
+  margin-left: 15%;
   align-items: center;
 }
 
 h1{
-  font-size: 32px;
+  font-size: 3.7vw;
   line-height: 96px;
   margin: 5% 0 0% 10%;
 }
@@ -128,7 +129,7 @@ button{
 }
 
 #buttonTheme{
-  padding: 15px 0px 8px 15px;
+  padding: 10% 0px 3% 3%;
   font-size: 10px;
   margin: 0px;
   width: 60px;
@@ -136,8 +137,8 @@ button{
 }
 
 .template{
-  width: 350px;
-  height: 480px;
+  width: 40vw;
+
   margin: 10px 10px 50px 120px; 
   box-shadow: 0px 0px 15px rgb(129, 123, 123);;
   border-radius: 20px 0px 20px 0px;
@@ -146,10 +147,9 @@ button{
 }
 
 .projects{
-  width: 320px;
-  border-radius: 8px ;
-  margin-bottom: 25px;
-  
+  width: 35vw;
+  margin: 6%;
+    
  }
 
  .projetos{
@@ -158,11 +158,11 @@ button{
  }
 
  .descriçãoProjetos{
-  padding: 0px 25px 20px;
+  padding: 0px 10% 10%;
  }
 
  .nameprojects{
-  margin-bottom: 30px;
+  margin-bottom: 8%;
  }
 
  .about{
@@ -202,6 +202,9 @@ button{
     transform: scale(1.2) translate(0px, -1vh);
 
 }
+
+
+projetos
 
  
 
