@@ -194,7 +194,7 @@ function App() {
             </div>
             <div>
             <h3>E-mail:</h3>
-            <h3>gisellyalexandredesouza@gmail.com</h3>
+            <h3>gisellydesouza@hotmail.com</h3>
             </div>
         </div>
         <div className="contactIcons">
