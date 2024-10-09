@@ -83,6 +83,23 @@ function App() {
                 </a>
               </div>
               <div className='template'>
+              <img className="projects" src='LpDNC1.png'/>
+              <h2 className='nameprojects'>Página DNC</h2>
+                <div>
+                <p className='descriçãoProjetos'>
+                   Página de captura de leads para Escola DNC de tecnologia, possui vídeo de divulgação, 
+                   depoimento dos alunos em carrosel e acesso à ementa do curso.
+                </p>
+                </div>
+                <a href="https://projeto-1-dnc.netlify.app/" target="-blank"> 
+                  <button>Clique aqui</button>
+                </a>
+              </div>
+              
+            </div>
+        
+            <div>  
+            <div className='template'>
                 <img className="projects" src='prevTempo.png'/>
                 <h2 className='nameprojects'>Previsão do tempo</h2>
                   <div>
@@ -96,22 +113,7 @@ function App() {
                     <button>Clique aqui</button>
                   </a>
               </div>
-            </div>
-        
-            <div>  
-              <div className='template'>
-              <img className="projects" src='LpDNC1.png'/>
-              <h2 className='nameprojects'>Página DNC</h2>
-                <div>
-                <p className='descriçãoProjetos'>
-                   Página de captura de leads para Escola DNC de tecnologia, possui vídeo de divulgação, 
-                   depoimento dos alunos em carrosel e acesso à ementa do curso.
-                </p>
-                </div>
-                <a href="https://projeto-1-dnc.netlify.app/" target="-blank"> 
-                  <button>Clique aqui</button>
-                </a>
-              </div>
+              
               <div className='template'>
               <img className="projects" src='LpArquitetura.png'/>
               <h2 className='nameprojects'>Landing Page Arquitetura</h2>

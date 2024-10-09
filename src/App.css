@@ -6,14 +6,14 @@
 
 
 .app.dark{
-  background: rgba(15, 22, 36, 1);
+  background: rgb(3, 30, 83);
   h1, h2, h3, p, a{
     color: rgb(255, 255, 255);
   }
 }
 
 .app.light {
-  background: #b7c4d6 !important;
+  background: #f1dbffe7 !important;
   color: #070707;
   h1, h2, h3, h4, a{
     color: #070707;
@@ -203,8 +203,15 @@ button{
 
 }
 
+@media (300px <= widht <= 1350){
+  .cabeçalho{
+    font-size: 10px;
+  }
 
-projetos
+}
+
+
+
 
  
 
